@@ -1,3 +1,4 @@
 # html-css-design
-This is the simple Figma design of HTML and CSS
+This is the simple Figma design of HTML and CSS 
+<br>
 Author - Vimal Malam
